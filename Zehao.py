@@ -1,3 +1,3 @@
 print("this is liam")
 
-print("123")
+print("12")
