@@ -1,1 +1,1 @@
-print("My favorite color is blue!")
+print("My favorite color is blue")
